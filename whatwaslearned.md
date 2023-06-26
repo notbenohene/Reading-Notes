@@ -1,1 +1,2 @@
-# This $#:+ is definitely a bit more difficult (to me at least) than expected, but the task goes back to a pillar of the growth mindset: embrace challenges. I mean, I knew that this course was not going to be simple. Fortunately, I have an excelleent instructor and knowledgable classmates (shoutout to Alejandra!) who are here with me.
+# This $#:+ is definitely a bit more difficult (to me at least) than expected...
+but the task goes back to a pillar of the growth mindset: embrace challenges. I mean, I knew that this course was not going to be simple. Fortunately, I have an excelleent instructor and knowledgable classmates (shoutout to Alejandra!) who are here with me.
