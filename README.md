@@ -13,6 +13,6 @@
 
 
 
-[A Bit About Ben](./aboutme.md)
+[A Bit About Ben](./aboutme.md){:target="_blank"}
 
 
