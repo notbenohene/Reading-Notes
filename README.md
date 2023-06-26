@@ -6,7 +6,7 @@
 
 * Embrace Challenges: obstacles will present their selfs... and that is okay. Tango with the challenges and come out on top.
 * Listen to Critque: listening to and understanding criticism allows for development that might not have been obtained through solo work
-* Put in the Effort: this is (in my opinion) the most important pillar of the growth mindset: you can't finish what you don't start
+* Put in the Effort: this is (in my opinion) the _most important_ pillar of the growth mindset: you can't finish what you don't start
 
 
 
