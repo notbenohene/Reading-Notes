@@ -1,4 +1,4 @@
-Four important features to look for in a text editor, according to ___:
+# Four important features to look for in a text editor, according to "The Older Coder":
 1.) code completion 
 2.) syntax highlighting 
 3.) a variety of themes to reduce eye strain and fatigue
@@ -11,7 +11,9 @@ cd - change directory allows for a useer to switch through directories in their 
 mkdir - make directory is used to create new directories
 touch - touch is used to adjust the access information of a file
 
-Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
+Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line?
+(Arguments are extra instructions given to a command.)
+
 cd projects - changes the directory of the folder titled "projects" 
 mkdir new-project - makes a directory of a new folder
 touch new-project/newfile.md - 
