@@ -15,4 +15,4 @@
 
 [A Bit About Ben](./aboutme.md)
 
-[What Was Learned](./whatwaslearned)
+[What Was Learned](./whatwaslearned.md)
