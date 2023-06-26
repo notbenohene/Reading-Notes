@@ -6,4 +6,4 @@ Ben is a Texas transplant residing in Seattle, Washington. He has a background i
 
 [Github Profile](https://github.com/notbenohene)
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+<a href="https://github.com/notbenohene)"target="_blank">Ben's Github Profile</a>
