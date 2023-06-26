@@ -24,9 +24,8 @@ This submission is not the prettiest, but it's something. Will (hopefully) gain 
 * touch - touch is used to adjust the access information of a file
 
 ## Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line?
-
 * cd projects - changes the directory of the folder titled "projects" 
 * mkdir new-project - makes a directory of a new folder
-* touch new-project/newfile.md - 
-* cd ..
-* ls projects/new-project
+* touch new-project/newfile.md - creates a new project and names it
+* cd .. - return to previous directory
+* ls projects/new-project - shows a list of the contents in the newly created folder
