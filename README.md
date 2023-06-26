@@ -9,9 +9,11 @@
 * Put in the Effort: this is (in my opinion) the most important pillar of the growth mindset: you can't finish what you don't start
 
 
-Notes/Learning from class
 
-## Gang Gang Gang
-
-* What should you eat?
 [Check Out This Utilizaton of Markdown]()
+
+
+[A Bit About Ben]()
+## Gang Gang Gang
+* What should you eat?
+
