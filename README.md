@@ -10,10 +10,9 @@
 
 
 
-[Check Out This Utilizaton of Markdown]()
 
 
-[A Bit About Ben]()
-## Gang Gang Gang
-* What should you eat?
+
+[A Bit About Ben](./aboutme)
+
 
