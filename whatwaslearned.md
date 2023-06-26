@@ -17,17 +17,16 @@ This submission is not the prettiest, but it's something. Will (hopefully) gain 
 4.) the ability to choose from a selection of extensions 
 
 ## What do the following commands do?
-pwd - print working directory (pwd) displays a directory's path; where are we right now
-ls - list displays hidden and visible files and directories
-cd - change directory allows for a useer to switch through directories in their system 
-mkdir - make directory is used to create new directories
-touch - touch is used to adjust the access information of a file
+* pwd - print working directory (pwd) displays a directory's path; where are we right now
+* ls - list displays hidden and visible files and directories
+* cd - change directory allows for a useer to switch through directories in their system 
+* mkdir - make directory is used to create new directories
+* touch - touch is used to adjust the access information of a file
 
 ## Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line?
-(Arguments are extra instructions given to a command.)
 
-cd projects - changes the directory of the folder titled "projects" 
-mkdir new-project - makes a directory of a new folder
-touch new-project/newfile.md - 
-cd ..
-ls projects/new-project
+* cd projects - changes the directory of the folder titled "projects" 
+* mkdir new-project - makes a directory of a new folder
+* touch new-project/newfile.md - 
+* cd ..
+* ls projects/new-project
