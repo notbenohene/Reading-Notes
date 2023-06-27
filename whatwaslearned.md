@@ -5,11 +5,11 @@ I know that I am going to need to keep on top of the course material (obviously)
 
 Today's class material went over what to expect from the course, Markdown, uses of the terminal, various downloads, and getting acquainted with the tools that will be used throughout the program.
 
-One bit of what was learned about today is syntax highlighting. Syntax highlighting adds color to text in whichever text editor is being used. Not all text editors will have a syntax highlighting option and not everyone may be interested in the feature, but color coordinating does make coding a bit simpler to follow. This piece of information stood out to me because I had difficulty following today's instruction because my eyes got lost in the cascades of text that were being displayed. After seeing colors in the syntax, I was better able to track where I was and what I was doing.
+One bit of what was learned about today is syntax highlighting. Syntax highlighting adds color to text in whichever text editor is being used. Not all text editors will have a syntax highlighting option and not everyone may be interested in the feature, but color coordinating does make coding a bit simpler to follow. This piece of information stood out to me because I had difficulty following today's instruction because my eyes got lost in the cascades of text that were being displayed. After seeing colors in the code, I was better able to track where I was and what I was doing.
 
 This submission is not the prettiest, but it's something. Will (hopefully) gain skills as the class progresses.
 
-Was supposed to include code somewhere in this blurb. Here ya go:
+Was supposed to include code somewhere in this blurb. Here's an image code for ya:
 
 
 ![16734_Hang_in_there__30671](https://github.com/notbenohene/Reading-Notes/assets/33169836/f476145c-a52f-47c9-816d-5c82b93dae4d)
@@ -26,20 +26,15 @@ Was supposed to include code somewhere in this blurb. Here ya go:
 ## What do the following commands do?
 * pwd - print working directory (pwd) displays a directory's path; where are we right now
 * ls - list displays hidden and visible files and directories
-* cd - change directory allows for a useer to switch through directories in their system 
+* cd - change directory allows for a user to switch through directories in their system 
 * mkdir - make directory is used to create new directories
 * touch - touch is used to adjust the access information of a file
 
 ## Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line?
-* cd projects - changes the directory of the folder titled "projects" 
+* cd projects - displays the working directory  of the folder titled "projects" 
 * mkdir new-project - makes a directory of a new folder
 * touch new-project/newfile.md - creates a new project and names it
 * cd .. - return to previous directory
 * ls projects/new-project - shows a list of the contents in the newly created folder
 
-- yes
-: drag
-= dragon
-+ frasg
-@ dragonfly
 1. dragonfly
