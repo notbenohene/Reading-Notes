@@ -32,8 +32,8 @@ Was supposed to include code somewhere in this blurb. Here's an image code for y
 
 ## Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line?
 * cd projects - displays the working directory  of the folder titled "projects" 
-* mkdir new-project - makes a directory of a new folder
-* touch new-project/newfile.md - creates a new project and names it
+* mkdir new-project - makes a directory of a new project
+* touch new-project/newfile.md - creates a new file in the new projectand names it 
 * cd .. - return to previous directory
-* ls projects/new-project - shows a list of the contents in the newly created folder
+* ls projects/new-project - shows a list of the contents in the newly created project
 
