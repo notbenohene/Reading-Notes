@@ -36,7 +36,7 @@ Want some code? Check out this nested list:
 * The asterisk comes into play when emphasizing text in the middle of text (make sense?)
   
 7. How do you create a link with Markdown?
-* []()
+* / Square brackets and parentheses. You already know.
 
 8. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 * /* ; /+ ; /-
