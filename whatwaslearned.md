@@ -9,7 +9,8 @@ One bit of what was learned about today is syntax highlighting. Syntax highlight
 
 This submission is not the prettiest, but it's something. Will (hopefully) gain skills as the class progresses.
 
-![How it is](https://crossstitchworld.com/dimensions-minis-hang-on-kitty/![image](https://github.com/notbenohene/Reading-Notes/assets/33169836/751a184c-d9d3-465b-9ee1-01b0eed7ef21))
+
+![16734_Hang_in_there__30671](https://github.com/notbenohene/Reading-Notes/assets/33169836/f476145c-a52f-47c9-816d-5c82b93dae4d)
 
 
 
