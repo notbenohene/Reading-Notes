@@ -16,4 +16,6 @@
 
 [A Bit About Ben](./aboutme.md)
 
-[What Was Learned 26JUN23](./whatwaslearned.md)
+[The Coder's Computer 26JUN23](./whatwaslearned.md)
+
+[Learning Markdown 26JUN23](./whatwaslearned2.md)
