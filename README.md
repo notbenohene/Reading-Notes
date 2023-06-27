@@ -11,7 +11,7 @@
 
 ![Mindset](https://3.files.edl.io/4761/23/01/24/185821-860bc549-1131-41fd-9279-a54580710130.png)
 
-
+<sub>Image from the Virginia Chance School</sub>
 
 [A Bit About Ben](./aboutme.md)
 
