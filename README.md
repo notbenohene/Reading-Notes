@@ -9,7 +9,7 @@
 * Put in the Effort: this is (in my opinion) the _most important_ pillar of the growth mindset: you can't finish what you don't start
 
 
-https://3.files.edl.io/4761/23/01/24/185821-860bc549-1131-41fd-9279-a54580710130.png
+![Mindset](https://3.files.edl.io/4761/23/01/24/185821-860bc549-1131-41fd-9279-a54580710130.png)
 
 
 
