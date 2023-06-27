@@ -1,8 +1,14 @@
 # I'm Up, They See Me, Markdown!
 
-The beginning portion of today's class went over Markdown, a simple to use plain-text editor that gets the job done.
+The beginning portion of today's class went over Markdown, a simple to use plain-text editor that gets the job done. The class utilized Markdown on Github, an open-source platform that is often used by developers and bloggers.
 
-Now check out this nested list:
+To keep it 💯, I am lacking energy right now. Brain is starting to feel some type of way. Going to wrap this one up here.
+
+Me:
+![Prof X](https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F001%2F504%2F661%2Feb2.jpg)
+
+
+Want some code? Check out this nested list:
 
 1. Check
    - It
