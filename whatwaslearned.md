@@ -11,7 +11,7 @@ This submission is not the prettiest, but it's something. Will (hopefully) gain 
 
 
 ![16734_Hang_in_there__30671](https://github.com/notbenohene/Reading-Notes/assets/33169836/f476145c-a52f-47c9-816d-5c82b93dae4d)
-
+<sub>"Hang on Kitty" by Katherine Neprud</sub>
 
 
 ## Four important features to look for in a text editor, according to "The Older Coder":
