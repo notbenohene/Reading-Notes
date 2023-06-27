@@ -2,6 +2,11 @@
 
 The beginning portion of today's class went over Markdown, a simple to use plain-text editor that gets the job done.
 
+Now check out this nested list:
+
+1. Check
+- It
+- Out
 
 ### Questions & Answers
 1. What is Markdown?
