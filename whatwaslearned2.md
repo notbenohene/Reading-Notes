@@ -5,8 +5,9 @@ The beginning portion of today's class went over Markdown, a simple to use plain
 Now check out this nested list:
 
 1. Check
-- It
-- Out
+   - It
+   - Out
+
 
 ### Questions & Answers
 1. What is Markdown?
