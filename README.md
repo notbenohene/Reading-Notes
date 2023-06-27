@@ -13,6 +13,7 @@
 
 <sub>Image from the Virginia Chance School</sub>
 
+
 [A Bit About Ben](./aboutme.md)
 
 [What Was Learned 26JUN23](./whatwaslearned.md)
