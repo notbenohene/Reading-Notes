@@ -37,4 +37,3 @@ Was supposed to include code somewhere in this blurb. Here's an image code for y
 * cd .. - return to previous directory
 * ls projects/new-project - shows a list of the contents in the newly created folder
 
-1. dragonfly
