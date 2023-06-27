@@ -9,6 +9,8 @@ One bit of what was learned about today is syntax highlighting. Syntax highlight
 
 This submission is not the prettiest, but it's something. Will (hopefully) gain skills as the class progresses.
 
+Was supposed to include code somewhere in this blurb. Here ya go:
+
 
 ![16734_Hang_in_there__30671](https://github.com/notbenohene/Reading-Notes/assets/33169836/f476145c-a52f-47c9-816d-5c82b93dae4d)
 
