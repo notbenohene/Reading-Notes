@@ -17,20 +17,20 @@ Was supposed to include code somewhere in this blurb. Here's an image code for y
 <sub>"Hang on Kitty" by Katherine Neprud</sub>
 
 
-## Four important features to look for in a text editor, according to "The Older Coder":
+### Four important features to look for in a text editor, according to "The Older Coder":
 1.) code completion 
 2.) syntax highlighting 
 3.) a variety of themes to reduce eye strain and fatigue
 4.) the ability to choose from a selection of extensions 
 
-## What do the following commands do?
+### What do the following commands do?
 * pwd - print working directory (pwd) displays a directory's path; where are we right now
 * ls - list displays hidden and visible files and directories
 * cd - change directory allows for a user to switch through directories in their system 
 * mkdir - make directory is used to create new directories
 * touch - touch is used to adjust the access information of a file
 
-## Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line?
+### Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line?
 * cd projects - displays the working directory  of the folder titled "projects" 
 * mkdir new-project - makes a directory of a new project
 * touch new-project/newfile.md - creates a new file in the new projectand names it 
