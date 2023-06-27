@@ -1,4 +1,9 @@
-# Questions & Answers
+# I'm Up, They See Me, Markdown!
+
+The beginning portion of today's class went over Markdown, a simple to use plain-text editor that gets the job done.
+
+
+### Questions & Answers
 1. What is Markdown?
 * Markdown is a markup language that is used to format and style text using a plain text-editor.
 
