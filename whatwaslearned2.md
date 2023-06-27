@@ -1,26 +1,28 @@
 # Questions & Answers
-What is Markdown?
+1. What is Markdown?
+* Markdown is a markup language that is used to format and style text using a plain text-editor.
 
+2. Why do we use Markdown?
+* Because we feel like it...
+* Markdown provides easy to read syntax that can be converted to HTML. 
 
-Why do we use Markdown?
-
-
-What symbol will create a heading in Markdown?
-* /#
+3. What symbol will create a heading in Markdown?
+* /# - the octothorpe (this will be my first child's name)
   
-How many do you need to create the largest heading?
+4. How many do you need to create the largest heading?
 * One
   
-How many do you need to create the smallest heading?
-* Two
+5. How many do you need to create the smallest heading?
+* Six
   
-When making text bold or italicized for emphasis, it is best practice to use which symbol?
+6. When making text bold or italicized for emphasis, it is best practice to use which symbol?
 * /** ** = bold; _ _ = italic
+* The asterisk comes into play when emphasizing text in the middle of text (make sense?)
   
-How do you create a link with Markdown?
+7. How do you create a link with Markdown?
 * []()
 
-What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
+8. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 * /* ; /+ ; /-
 
 
