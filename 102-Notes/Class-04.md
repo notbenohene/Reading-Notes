@@ -3,7 +3,7 @@ HyperText Markup Language (HTML) is some interesting stuff. HTML is comprised of
 
 Going to be hacking mainframes here soon.
 
-![hack](https://i.redd.it/gdn6tkk4wv151.png)
+![hack](https://pbs.twimg.com/media/El3bDQ5XUAEkEeH.jpg)
 
 
 ## Questions & Answers
