@@ -1,6 +1,6 @@
 # Add - Commit - Push! Three (somewhat) simple steps to make coding life easier.
 
-Imagine the process at CMD/CTRL + S. Save your progress as you continue to advance with your projects or risk items going down the drain and end up becoming this guy:
+Imagine the process at CMD/CTRL + S. Save your progress as you continue to advance with your projects or risk files going down the drain and end up becoming this guy:
 
 ![Ponch](https://i.kym-cdn.com/photos/images/original/002/233/233/e39.gif)
 
