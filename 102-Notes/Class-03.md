@@ -2,7 +2,7 @@
 
 Imagine the process at CMD/CTRL + S. Save your progress as you continue to advance with your projects or risk items going down the drain and end up becoming this guy:
 
-[Ponch](https://i.kym-cdn.com/photos/images/original/002/233/233/e39.gif)
+![Ponch](https://i.kym-cdn.com/photos/images/original/002/233/233/e39.gif)
 
 git add *
 git commit -m ‘message’ (include *something* in the message)
