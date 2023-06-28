@@ -1,3 +1,5 @@
+[Learning Markdown](../whatwaslearned2.md)
+
 # I'm Up, They See Me, Markdown!
 
 The beginning portion of today's class went over Markdown, a simple to use plain-text editor that gets the job done. The class utilized Markdown on Github, an open-source platform that is often used by developers and bloggers.
