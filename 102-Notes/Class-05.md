@@ -6,17 +6,17 @@ Cascading Style Sheets (CSS) is a coding language that works hand-in-hand with H
 
 1. What is the purpose of CSS? 
 * CSS is used to style and organize web pages; it determines how documents are presented to a viewer
-<!--
+
 2. What are the three ways to insert CSS into your project?
 
-* External Stylesheet - change the look of an entire website by changing just one file; defined by <link> element 
+* External Stylesheet - change the look of an entire website by changing just one file; defined by < link > element 
 – ex. 
- <link rel="stylesheet" href="mystyle.css">
+ < link rel="stylesheet" href="mystyle.css" >
 
-* Internal Stylesheet - may be used if one single HTML page has a unique style; defined with the <style> element 
+* Internal Stylesheet - may be used if one single HTML page has a unique style; defined with the < style > element 
 – ex. 
-<head>
-<style>
+< head >
+< style >
 body {
   background-color: linen;
 }
@@ -24,12 +24,11 @@ h1 {
   color: maroon;
   margin-left: 40px;
 } 
-</style>
-</head>
+</ style >
+</ head >
 
 * Inline Stylesheet - used to apply a unique style for a single element; defined within the "style" attribute of the relevant element – ex.
-<h1 style="color:blue;text-align:center;">This is a heading</h1>
+< h1 style="color:blue;text-align:center;">This is a heading< /h1 >
 
-3. Write an example of a CSS rule that would give all <p> elements red text.
-<p style="color:red;">This is a paragraph.</p>
--->
+3. Write an example of a CSS rule that would give all < p > elements red text.
+< p style="color:red;">This is a paragraph.< /p >
