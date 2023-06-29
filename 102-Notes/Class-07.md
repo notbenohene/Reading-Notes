@@ -12,6 +12,8 @@ sayName(‘Hello’);     		← argument
 - Camel Case is used by delevopers to read lines without using spaces ex. typingLikeThis
 - The first word of a camel case sentence is always lower case
 
+![camelCase](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/CamelCase_new.svg/1024px-CamelCase_new.svg.png)
+
 ## Questions & Answers
 
 1. What is control flow?
