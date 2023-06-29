@@ -2,6 +2,8 @@
 
 Instead, JavaScript is a commonly utilized programming language mainly used to develop dynamic webpages.
 
+![noCoffee](https://canvas.instructure.com/users/56584521/files/218845040/preview?verifier=rKrDzBxyx6qQQgpX1yx0SfHVRaBYCkV6empPhYN8)
+
 As of 2022, 98% of websites use JavaScript for their frontend. That's what the internet told me, and as we all know, everything on the internet is true.
 
 
