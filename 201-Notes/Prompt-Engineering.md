@@ -2,6 +2,8 @@
 
 ### Bard is Google's experimental AI system that competes with OpenAI's ChatGPT. Enter a prompt or question and receive a thought out answer within seconds. Technology.
 
+This was my first time using Google's Bard AI. In my opinion, it looks cleaner than ChatGPT, but both are great resources. I asked Bard what the most relaxing color in the visible light spectrum is. According to researchers, it is not the color that you are more than likely thinking. 
+
 <i>Question: What is the most relaxing spectrum light color?</i>
 
 Bard's Answer: The most relaxing spectrum light color is red. Red light has a long wavelength and low color temperature, which makes it appear warm and inviting. It is also the color of sunsets and fire, which are both associated with relaxation and calmness.
