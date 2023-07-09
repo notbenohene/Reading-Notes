@@ -1,23 +1,20 @@
-# What is a "growth mindset," you ask?
+# <u>Reading Notes: About This Website</u>
 
-* A growth mindset is a frame of thinking that allows for mental flexibility, advanced learning, and continued progress. 
+This website is a repository for skills acquired from participating in the Code Fellows Software Development program. Class assignments completed by Ben Ohene can be found on this page.
 
-## Three Ways to Keep Yourself in a Growth Mindset
+- Note: Wesbsite is a work in progress. We will get there.
 
-1. Embrace Challenges: obstacles will present their selfs... and that is okay. Tango with the challenges and come out on top.
-2. Listen to Critque: listening to and understanding criticism allows for development that might not have been obtained through solo work
-3. Put in the Effort: this is (in my opinion) the _most important_ pillar of the growth mindset: you can't finish what you don't start
+Thanks for dropping by!
 
-
-![Mindset](https://3.files.edl.io/4761/23/01/24/185821-860bc549-1131-41fd-9279-a54580710130.png)
-
-<sub>Image from the Virginia Chance School</sub>
+![thumbsup](https://www.icegif.com/wp-content/uploads/2022/10/icegif-1341.gif)
 
 # Table of Contents
 
+* [A Bit About Ben](./aboutme.md)
+
 * [Growth Mindset](./102-Notes/Growth-Mindset.md)
 
-## 1. Code 102
+## 1. Code 102 - Introduction to Software
 * [Class-01](./102-Notes/Class-01.md)
 * [Class-02](./102-Notes/Class-02.md)
 * [Class-03](./102-Notes/Class-03.md)
@@ -27,7 +24,7 @@
 * [Class-07](./102-Notes/Class-07.md)
 * [Class-08](./102-Notes/Class-08.md)
 
-## 2. Code 201
+## 2. Code 201 - Foundations of Software Development
 
 * [Class-01](./201-Notes/Class-01.md)
 * [Class-02](./201-Notes/Class-02.md)
@@ -45,8 +42,6 @@
 * [Class-14](./201-Notes/Class-14.md)
 * [Class-15](./201-Notes/Class-15.md)
 
-[A Bit About Ben](./aboutme.md)
+## 3. Code 301 - Intermediate Software Development
 
-[The Coder's Computer 26JUN23](./whatwaslearned.md)
-
-[Learning Markdown 26JUN23](./whatwaslearned2.md)
+## 4. Code 401 - Advanced Software Development
