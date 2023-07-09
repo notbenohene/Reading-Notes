@@ -15,6 +15,8 @@
 
 # Table of Contents
 
+* [Growth Mindset](./102-Notes/Growth-Mindset.md)
+
 ## 1. Code 102
 * [Class-01](./102-Notes/Class-01.md)
 * [Class-02](./102-Notes/Class-02.md)
