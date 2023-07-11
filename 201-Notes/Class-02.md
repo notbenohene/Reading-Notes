@@ -1,6 +1,6 @@
 # Why is this important?
 
-- The information covered in this material is a continuation of the basics. HTML, JavaScript, and CSS are usedd in conjunction to create web pages. When used with a certain level of understanding and prowess, beautiful websites, videogames, and more can be accomplished.
+- The information covered in this material is a continuation of the basics. HTML, JavaScript, and CSS are used in conjunction to create web pages. When used with a certain level of understanding and prowess, beautiful websites, videogames, and more can be accomplished.
 
 ![js-gif](https://i0.wp.com/brasap.com.br/wp-content/uploads/2021/03/javascript.gif?fit=980%2C429&ssl=1)
 
@@ -26,8 +26,7 @@ _________________
 
 ## Learn CSS Q&A
 
-<b>
-1. What are ways we can apply CSS to our HTML? </b>
+<b>1. What are ways we can apply CSS to our HTML?</b>
 
 - CSS can be applied to a document through an external stylesheet, an internal stylesheet, and an inline stylesheet.
 
