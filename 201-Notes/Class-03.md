@@ -1,6 +1,6 @@
 ## Why is it important?
 
-- Understanding the components and tools used in coding can makes a big difference in the appearance and functionality of a website. 
+- Understanding the components and tools used in coding can make a big difference in the appearance and functionality of a website. 
 
 __________
 
@@ -40,10 +40,10 @@ ___________
 
 <b>2. List and describe the four parts of an HTML elements box as referred to by the box model.</b>
 
-i. content - the space in the element where information is placed
-ii. padding - the space between the content and the element's border (allows content under the element to be visible)
-iii. border - an outline that surround the padding and content of an element
-iv. margin - the space outside of an element's border
+- content - the space in the element where information is placed
+- padding - the space between the content and the element's border (allows content under the element to be visible)
+- border - an outline that surround the padding and content of an element
+- margin - the space outside of an element's border
 
 __________
 
@@ -65,7 +65,7 @@ __________
  - Multiplication: x *= f( ) ; x = x * f( )
  - Left shift: x <<= f( ) ; x = x << f( )
  - Logical AND: x && = f( ) ; x && ( x = f( ) )
- - Logical OR: x |  | = f ( ) ; x |  | ( x = f( ) )
+ - Logical OR: x /|  | = f ( ) ; x /|  | ( x = f( ) )
 
 <b>4. Read the code below and evaluate the last expression and explain what the result would be and why.
 
