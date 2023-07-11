@@ -103,9 +103,9 @@ __________
 - < and > — test if one value is less than or greater than another
 - <= and >= — test if one value is less than or equal to, or greater than or equal to, another
 
-<b>4. What is the difference between the logical operator && and ||?</b>
+<b>4. What is the difference between the logical operator && and | |?</b>
 
-- && = logical AND ; || = logical OR
+- && = logical AND ; | | = logical OR
 
 __________
 
