@@ -1,6 +1,6 @@
 ## Why is it important?
 
-- 
+- The material from the reading is important becuase it goes over code layout and how it affects a webpage. The last reading goes over the benefits of teamwork, something that is practiced regularly in the field of tech.
 
 ## Creating Hyperlinks Q&A
 
@@ -64,9 +64,9 @@ greet("Janet");
 
 - As the article states, "two heads are better than one."
 
-    - Engaged collaboration - collaboration leads to learning. Learning leads to mastery.
+    - Engaged collaboration - collaboration leads to learning. Learning leads to mastery. Big brain.
 
-    - Social skills - advice provided to me by individuals who have been in the tech field for a few years: be a decent coder, but be an even better people person. The tech field still has a negative stigma that portrays tech companies as glass boxes littered with anti-social weirdos. One must be the coworker that they their self would want to havee.
+    - Social skills - advice provided to me by individuals who have been in the tech field for a few years: be a decent coder, but be an even better people person. The tech field still has a negative stigma that portrays tech companies as glass boxes littered with anti-social weirdos. One must be the coworker that they would want to have.
 
 __________
 
