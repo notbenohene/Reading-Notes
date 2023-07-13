@@ -74,4 +74,4 @@ __________
 
 - I want to know more about how to get better sleep. Why am I walking around feeling as if I am in a third-person view videogame?
 
-![cj](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHN6Ynl0MjBwN3dyNncwcGlhdzAwNDdzeDI0ZHhiM2Z3OGVkYXNiaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0Wzkc9iirQ4ZI7JoaD/giphy.gif)
+![CJ](tumblr_09ed431b1d98521b347507c46c30ee0b_22cd1fe8_540.gif)
