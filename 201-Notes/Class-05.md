@@ -54,4 +54,4 @@
 - Importing new fonts and using them on a webpage. Creating fonts??
 
 ![movement](https://media.tenor.com/zFXNSUVN__MAAAAC/color-illusions.gif)
-#### Snail WIzard on Tenor.com
+#### Snail Wizard on Tenor.com
