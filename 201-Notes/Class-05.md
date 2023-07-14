@@ -53,5 +53,5 @@
 
 - Importing new fonts and using them on a webpage. Creating fonts??
 
-![movement](https://cdn.dribbble.com/users/988516/screenshots/11136271/media/ff2298bc2e5f45344639cb0c83ac1b6c.gif)
-#### Jose Morquecho
+![movement](https://media.tenor.com/zFXNSUVN__MAAAAC/color-illusions.gif)
+#### Snail WIzard on Tenor.com
