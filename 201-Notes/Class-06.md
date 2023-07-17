@@ -26,14 +26,21 @@ __________
 
 const dog = {
   name: 'Spot',
+
   age: 2,
+
   color: 'white with black spots',
+
   humanAge: function (){
+
     console.log( ` $ {this.name} is ${this.age*7} in human years ` );
+
   }
+  
 }
 
 - "This" refers to the current object ( dog ) that the code is written in and allows for the code to be more flexible.
+
 __________
 
 ## Intro to the DOM Q&A
